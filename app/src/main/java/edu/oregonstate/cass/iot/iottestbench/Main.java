@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class Main extends AppCompatActivity {
+    //Test comment for double-checking this project is synced with the right repository
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
